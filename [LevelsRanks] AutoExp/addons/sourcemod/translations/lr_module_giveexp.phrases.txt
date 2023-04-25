@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GiveExp"
+	{
+		"en"			"You just won : "
+		"fr"			"Vous venez de gagner : "
+	}
+
+}
